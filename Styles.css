@@ -1,0 +1,45 @@
+.navbar {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.container-fluid {
+  background-color: #7500CF;
+  display: flex; 
+  margin-top: 0px;
+  height: auto;
+}
+.nav-item {
+  margin-right: 50px;
+  font-size: 22px;
+}
+.main {
+  background-color: #C4B2E9;
+}
+.photo {
+  padding: 80px;
+  justify-content: center;
+  display: flex;
+}
+.img {
+  padding-right: 60px;
+  opacity: 0.1;
+  width: 200px;
+}
+.h1 {
+  font-weight: 40px;
+  font-size: 300px;
+  font-family: fantasy;
+  text-align: center;
+}
+.price {
+  list-style: none;
+  display: flex;
+}
+.price-s {
+  font-size: 25px;
+  border-radius: 1px black;
+}
+.baton {
+  padding-right: 40px;
+}
+
